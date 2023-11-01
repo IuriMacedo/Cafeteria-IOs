@@ -1,0 +1,48 @@
+@font-face {
+    font-family: skeina;
+    src: url(fontes/Skeina.otf);
+}
+
+h1 {
+    text-align: center;
+    font-family: skeina;
+    background-color: #7e381c;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+    box-shadow: 10px 10px 10px black;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 25px;
+}
+
+body {
+    background-color: #cb7a5a;
+}
+
+p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    padding-top: 2%;
+    text-align: center;
+}
+
+table {
+    height: 250px;
+    width: 500px;
+    text-align: center;
+    margin-left: 275px;
+}
+
+main{
+    text-align: center;
+}
